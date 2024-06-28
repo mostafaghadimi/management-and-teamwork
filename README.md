@@ -16,6 +16,7 @@
 ### Examples
 
 - [Google Postmortem example](https://sre.google/sre-book/example-postmortem/)
+- [Postmortem example](./templates/postmortem.md)
 
 ## Books
 
