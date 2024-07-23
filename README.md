@@ -4,9 +4,14 @@
 
 - [Management Related Contents](#management-related-contents)
   - [Table of Contents](#table-of-contents)
+  - [Choose technology](#choose-technology)
   - [Postmortem](#postmortem)
     - [Examples](#examples)
   - [Books](#books)
+
+## Choose technology
+
+- [Dan McKinley](https://boringtechnology.club/)
 
 ## Postmortem
 
