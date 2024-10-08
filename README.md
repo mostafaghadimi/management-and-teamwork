@@ -17,6 +17,7 @@
 
 - [Google: Postmortem Culture: Learning from Failure](https://sre.google/sre-book/postmortem-culture/)
 - [Etsy: Blameless PostMortems and a Just Culture](https://www.etsy.com/codeascraft/blameless-postmortems/)
+- [Collection of Postmortem templates](https://github.com/dastergon/postmortem-templates)
 
 ### Examples
 
